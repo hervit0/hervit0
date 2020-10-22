@@ -1,4 +1,4 @@
-### Hi there 👋
+## Bonjour :frog:!
 
 <!--
 **hervit0/hervit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :alien: Me :alien:
+### :alien: Me :alien:
 
-Senior Software Engineer based in London
+`Senior Software Engineer based in London`
 
-- :computer: My programming languages :computer:
+### :computer: My programming languages :computer:
 
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 
