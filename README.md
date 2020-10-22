@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/> <img src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 
+And other like: F#, Haskell, C#, Java...
+
 ### :video_game: My current projects :video_game:
 
-- [Takamaka](https://hervit0.github.io/takamaka), a brain puzzle made with React
-- [Light](https://hervit0.github.io/unity-test), a 2D platform game made with Unity [WIP]
-- [aws-appsync-resolver](https://github.com/hervit0/aws-appsync-resolver), a Go library for AWS App Sync [WIP]
+- [Takamaka](https://hervit0.github.io/takamaka), a brain puzzle made with **React**
+- [Light](https://hervit0.github.io/unity-test), a 2D platform game made with **Unity** [WIP]
+- [aws-appsync-resolver](https://github.com/hervit0/aws-appsync-resolver), a Go library for **AWS App Sync** [WIP]
 
 ### :runner: My hobbies :runner:
 
