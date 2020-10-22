@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :alien: Me :alien:
+### :alien: Me in one line :alien:
 
 `Senior Software Engineer based in London`
 
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ### :video_game: My current projects :video_game:
 
 - [Takamaka](https://hervit0.github.io/takamaka), a brain puzzle made with React
-- [Light](https://hervit0.github.io/unity-test), a 2D platform made with Unity [WIP]
+- [Light](https://hervit0.github.io/unity-test), a 2D platform game made with Unity [WIP]
 - [aws-appsync-resolver](https://github.com/hervit0/aws-appsync-resolver), a Go library for AWS App Sync [WIP]
 
-### My hobbies
+### :runner: My hobbies :runner:
 
 - :martial_arts_uniform:: BJJ, kickboxing, boxing (pre-covid obviously...)
 - :guitar:: ukulele
