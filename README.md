@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ### 🛠️ My current projects 🛠️
 
 - [MTG perf](https://perf.mtg.hervito.co.uk/), an MTG performance tracker - the server is on my raspberry pi for now
+- [Shiplog](https://shiplog.hervito.co.uk), a serverless daily work encrypted log to make quarterly appraisals easier
 - [Quickfire](https://hervit0.github.io/quickfire/), a party game
 - [Argeebeedle](https://hervit0.github.io/argeebeedle/), wordle with colours
 - [MTG life counter](https://hervit0.github.io/life/), a life tracker for MTG
