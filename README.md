@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :alien: Me in one line :alien:
 
-`Senior Software Engineer based in London`
+[`Senior Software Engineer based in UK`](https://hervit0.github.io/)
 
 ### :loudspeaker: My motto :loudspeaker:
 
@@ -25,11 +25,17 @@ Here are some ideas to get you started:
 
 ### :computer: My programming languages :computer:
 
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/> <img src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/> <img src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
 
-And others like: F#, Haskell, C#, Java...
+### 🛠️ My current projects 🛠️
 
-### :video_game: My current projects :video_game:
+- [MTG perf](https://perf.mtg.hervito.co.uk/), an MTG performance tracker - the server is on my raspberry pi for now
+- [Quickfire](https://hervit0.github.io/quickfire/), a party game
+- [Argeebeedle](https://hervit0.github.io/argeebeedle/), wordle with colours
+- [MTG life counter](https://hervit0.github.io/life/), a life tracker for MTG
+- [A Boring life](https://hervit0.github.io/boring-life/), lite intriguing RPG
+
+### :video_game: My past projects :video_game:
 
 - [Takamaka](https://hervit0.github.io/takamaka), a brain puzzle made with **React**
 - [Light](https://hervit0.github.io/unity-test), a 2D platform game made with **Unity** [WIP]
@@ -37,6 +43,7 @@ And others like: F#, Haskell, C#, Java...
 
 ### :runner: My hobbies :runner:
 
-- :martial_arts_uniform:: BJJ, kickboxing, boxing (pre-covid obviously...)
-- :guitar:: ukulele
+- 🧙‍♂️: Magic The Gathering
+- 🏊: Swimming
+- :guitar:: bass, guitar
 - :clapper:: YouTube channel - teaching Go
