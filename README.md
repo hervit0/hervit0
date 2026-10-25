@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :alien: Me in one line :alien:
 
-[`Senior Software Engineer based in UK`](https://hervit0.github.io/)
+[`Senior Software Engineer based in UK`](https://hervito.co.uk/)
 
 ### :loudspeaker: My motto :loudspeaker:
 
